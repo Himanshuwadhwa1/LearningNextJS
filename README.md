@@ -1,4 +1,4 @@
-### Just for learning NEXTJS, No project.
+# Just for learning NEXTJS, No project.
 
 ## Getting Started
 
